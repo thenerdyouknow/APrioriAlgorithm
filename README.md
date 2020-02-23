@@ -1,8 +1,8 @@
 ASSOCIATION RULE MINING APRIORI ALGORITHM IN PYTHON3
 
-Implements ARM in Python3 using minimal outside libraries.
+Implements ARM in Python3 using minimal dependencies.
 
-Dummy datagenerator included which generates a text file with each line being a transaction and each number being an item.
+Dummy data generator included which generates a text file with each line being a transaction and each number being an item.
 
 To run :
 
